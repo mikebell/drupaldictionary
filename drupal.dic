@@ -22,6 +22,10 @@ dblog
 farb
 FAPI
 addtogroup
+solr
+apachesolr
+spellcheck
+unpublish
 simpletest
 basetheme
 pathauto
