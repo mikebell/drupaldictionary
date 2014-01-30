@@ -26,6 +26,7 @@ colspan
 contrib
 Crell
 crontab
+ctools
 databasename
 datepicker
 davereid
@@ -37,6 +38,7 @@ drupalcode
 drush
 dvessel
 effulgentsia
+entityreference
 fago
 FAPI
 farb
@@ -87,6 +89,10 @@ multisite
 Myrbo
 mysqladmin
 Négyesi
+nid
+nids
+nodequeue
+nodequeues
 opml
 pathauto
 pgsql
@@ -112,6 +118,8 @@ sitename
 solr
 Somers
 spellcheck
+strongarm
+subqueue
 syslog
 tabledrag
 tableheader
@@ -135,6 +143,7 @@ usernames
 viewport
 Waihi
 webchick
+webform
 webroot
 webserver
 webtrends
